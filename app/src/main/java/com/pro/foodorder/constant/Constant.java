@@ -4,15 +4,15 @@ public interface Constant {
 
     String GENERIC_ERROR = "General error, please try again later";
 
-    String PAGE_FACEBOOK = "fb://page/tincoder";
-    String LINK_FACEBOOK = "https://www.facebook.com/tincoder";
-    String LINK_YOUTUBE = "https://www.youtube.com/channel/UCu3DXfXYgygIYXN8TduNcNQ";
-    String PHONE_NUMBER = "+84392229676";
-    String GMAIL = "mixproduction29932@gmail.com";
-    String SKYPE_ID = "dangtin29932";
-    String ZALO_LINK = "https://zalo.me/0392229676";
+    String PAGE_FACEBOOK = "fb://";
+    String LINK_FACEBOOK = "https://www.facebook.com";
+    String LINK_YOUTUBE = "https://www.youtube.com";
+    String PHONE_NUMBER = "+123456789";
+    String GMAIL = "abc@gmail.com";
+    String SKYPE_ID = "12345678";
+    String ZALO_LINK = "https://zalo.me";
 
-    String FIREBASE_URL = "https://food-order-pro-default-rtdb.firebaseio.com";
+    String FIREBASE_URL = "https://foodorderpro-82f42-default-rtdb.firebaseio.com";
 
     String CURRENCY = " 000 VNĐ";
     int TYPE_PAYMENT_CASH = 1;
